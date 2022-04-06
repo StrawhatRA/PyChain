@@ -18,5 +18,5 @@ You’ll make the following updates to the provided Python file for this assignm
 ## Validation
 
 <p align="center" width="35%">
-    <img width="50%" src="x"> 
+    <img width="50%" src="https://github.com/StrawhatRA/Pychain/blob/main/Images/true.png"> 
 </p>
